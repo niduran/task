@@ -1,0 +1,49 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+pip-wheel-metadata/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# === Terraform ===
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+terraform.tfvars.json
+override.tf
+override.tf.json
+*.backup
+*.tfplan
+
+# === Cloud Build ===
+.cloudbuild/
+
+# === OS & Editor files ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.idea/
+.vscode/
+*.code-workspace
+
+# === Python virtual environments ===
+ENV/
+env/
