@@ -1,0 +1,14 @@
+[
+    {
+      "name": "error",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": ""
+    },
+    {
+      "name": "raw",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": ""
+    }
+]

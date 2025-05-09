@@ -1,0 +1,4 @@
+apache-beam[gcp]
+protobuf==5.26.1
+google-cloud-secret-manager
+google-cloud-storage

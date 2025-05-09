@@ -1,0 +1,21 @@
+{
+  "description": "Pipeline parameters for Dataflow.",
+  "name": "Dataflow Pipeline",
+  "parameters": [
+    {
+      "name": "project-id",
+      "helpText": "Google Cloud Project ID",
+      "label": "project-id"
+    },
+    {
+      "name": "dataset",
+      "helpText": "BigQuery dataset name",
+      "label": "dataset"
+    },
+    {
+      "name": "topic",
+      "helpText": "Pub/Sub topic name",
+      "label": "topic"
+    }
+  ]
+}

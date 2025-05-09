@@ -1,0 +1,100 @@
+{"meter_id": "HR1764", "timestamp": "2025-05-05T08:34:24.614855Z", "location": "Split-StariGrad", "voltage": 217.3, "current": 4.8, "consumption_kwh": 3.24, "status": "OFFLINE"}
+{"meter_id": "HR1467", "timestamp": "2025-05-05T08:34:24.614841Z", "location": "Rijeka-Kozala", "voltage": 214.8, "current": 7.4, "consumption_kwh": 3.23, "status": "OK"}
+{"meter_id": "HR1674", "timestamp": "2025-05-05T08:34:24.615068Z", "location": "Osijek-DonjiGrad", "voltage": 228.8, "current": 5.2, "consumption_kwh": 4.21, "status": "OFFLINE"}
+{"meter_id": "HR1260", "timestamp": "2025-05-05T08:34:24.614688Z", "location": "Rijeka-Kozala", "voltage": 216.3, "current": 2.8, "consumption_kwh": 2.35, "status": "FAULT"}
+{"meter_id": "HR1732", "timestamp": "2025-05-05T08:34:24.615061Z", "location": "Split-StariGrad", "voltage": 234.3, "current": 3.1, "consumption_kwh": 4.11, "status": "OK"}
+{"meter_id": "HR1377", "timestamp": "2025-05-05T08:34:24.615178Z", "location": "Zagreb-Centar", "voltage": 222.4, "current": 6.1, "consumption_kwh": 3.9, "status": ""}
+{"meter_id": "HR1261", "timestamp": "2025-05-05T08:34:24.615492Z", "location": "Split-StariGrad", "voltage": 215.1, "current": 4.0, "consumption_kwh": 3.2, "status": ""}
+{"meter_id": "HR1323", "timestamp": "2025-05-05T08:34:24.615355Z", "location": "Zagreb-NoviGrad", "voltage": "invalid_type", "current": 6.3, "consumption_kwh": 3.77, "status": "OFFLINE"}
+{"meter_id": "HR1623", "timestamp": "2025-05-05T08:34:24.614671Z", "location": "Zagreb-Centar", "voltage": 210.2, "current": 8.6, "consumption_kwh": 2.92, "status": "OFFLINE"}
+{"meter_id": "HR1168", "timestamp": "2025-05-05T08:34:24.615201Z", "location": "Zagreb-Dubrava", "voltage": 217.1, "current": 5.3, "consumption_kwh": 2.17, "status": "UNKNOWN"}
+{"meter_id": "HR1298", "timestamp": "2025-05-05T08:34:24.614636Z", "location": "Zagreb-Centar", "voltage": 215.1, "current": 4.0, "consumption_kwh": 0.9, "status": "OK"}
+{"meter_id": "HR1732", "timestamp": "2025-05-05T08:34:24.615154Z", "location": "Zagreb-NoviGrad", "voltage": 233.4, "current": 1.9, "consumption_kwh": 0.27, "status": "OFFLINE"}
+{"meter_id": "HR1886", "timestamp": "2025-05-05T08:34:24.615218Z", "location": "Zagreb-Dubrava", "voltage": "invalid_type", "current": 7.5, "consumption_kwh": 0.34, "status": "FAULT"}
+{"meter_id": "HR1036", "timestamp": "2025-05-05T08:34:24.614741Z", "location": "Osijek-DonjiGrad", "voltage": 228.8, "current": 7.7, "consumption_kwh": 1.84, "status": "OK"}
+{"meter_id": "HR1251", "timestamp": "2025-05-05T08:34:24.614791Z", "location": "Split-StariGrad", "voltage": 211.2, "current": 9.0, "consumption_kwh": 3.65, "status": "OFFLINE"}
+{"meter_id": "HR1346", "timestamp": "2025-05-05T08:34:24.615331Z", "location": "Split-StariGrad", "voltage": 210.2, "current": 4.9, "consumption_kwh": 3.55, "status": "N/A"}
+{"meter_id": "HR1525", "timestamp": "2025-05-05T08:34:24.615053Z", "location": "Osijek-DonjiGrad", "voltage": 212.5, "current": 1.4, "consumption_kwh": 1.12, "status": "FAULT"}
+{"meter_id": "HR1245", "timestamp": "2025-05-05T08:34:24.614748Z", "location": "Split-StariGrad", "voltage": 211.7, "current": 5.4, "consumption_kwh": 3.59, "status": "FAULT"}
+{"meter_id": "HR1638", "timestamp": "2025-05-05T08:34:24.615110Z", "location": "Osijek-DonjiGrad", "voltage": 222.7, "current": 5.7, "consumption_kwh": 2.13, "status": "OFFLINE"}
+{"meter_id": "HR1685", "timestamp": "2025-05-05T08:34:24.614734Z", "location": "Zagreb-Dubrava", "voltage": 239.4, "current": 1.2, "consumption_kwh": 0.66, "status": "OFFLINE"}
+{"meter_id": "HR1712", "timestamp": "2025-05-05T08:34:24.615146Z", "location": "Zagreb-Dubrava", "voltage": 222.1, "current": 2.4, "consumption_kwh": 3.26, "status": "OK"}
+{"meter_id": "HR1236", "timestamp": "2025-05-05T08:34:24.615469Z", "location": "Osijek-DonjiGrad", "voltage": "invalid_type", "current": 5.8, "consumption_kwh": 3.84, "status": "FAULT"}
+{"meter_id": "HR1948", "timestamp": "2025-05-05T08:34:24.614979Z", "location": "Zagreb-Dubrava", "voltage": 228.6, "current": 2.4, "consumption_kwh": 2.25, "status": "FAULT"}
+{"meter_id": "HR1794", "timestamp": "2025-05-05T08:34:24.615187Z", "voltage": 226.0, "current": 2.8, "consumption_kwh": 0.71, "status": "OK"}
+{"meter_id": "HR1165", "timestamp": "2025-05-05T08:34:24.614848Z", "location": "Osijek-DonjiGrad", "voltage": 210.6, "current": 9.8, "consumption_kwh": 4.11, "status": "OK"}
+{"meter_id": "HR1046", "timestamp": "2025-05-05T08:34:24.615372Z", "location": "Osijek-DonjiGrad", "voltage": 221.8, "current": "invalid_type", "consumption_kwh": 3.64, "status": "OK"}
+{"meter_id": "HR1273", "timestamp": "2025-05-05T08:34:24.615117Z", "location": "Zagreb-NoviGrad", "voltage": 230.2, "current": 8.9, "consumption_kwh": 4.35, "status": "OFFLINE"}
+{"meter_id": "HR1565", "timestamp": "2025-05-05T08:34:24.615413Z", "location": "Zagreb-NoviGrad", "voltage": "invalid_type", "current": 6.6, "consumption_kwh": 4.16, "status": "OFFLINE"}
+{"meter_id": "HR1955", "timestamp": "2025-05-05T08:34:24.615256Z", "location": "Osijek-DonjiGrad", "current": 7.4, "consumption_kwh": 1.47, "status": "OFFLINE"}
+{"meter_id": "HR1299", "timestamp": "2025-05-05T08:34:24.615430Z", "location": "Zagreb-Centar", "voltage": 238.2, "current": 2.0, "consumption_kwh": 4.57}
+{"timestamp": "2025-05-05T08:34:24.615364Z", "location": "Zagreb-Dubrava", "voltage": 229.6, "current": 9.0, "consumption_kwh": 3.28, "status": "OFFLINE"}
+{"meter_id": "HR1902", "timestamp": "2025-05-05T08:34:24.614605Z", "location": "Split-StariGrad", "voltage": 211.0, "current": 6.2, "consumption_kwh": 3.32, "status": "OK"}
+{"meter_id": "HR1300", "timestamp": "2025-05-05T08:34:24.615446Z", "location": "Zagreb-Dubrava", "voltage": "invalid_type", "current": 8.6, "consumption_kwh": 3.93, "status": "FAULT"}
+{"meter_id": "HR1835", "timestamp": "2025-05-05T08:34:24.615347Z", "location": "Rijeka-Kozala", "current": 9.4, "consumption_kwh": 2.78, "status": "OFFLINE"}
+{"meter_id": "HR1293", "timestamp": "2025-05-05T08:34:24.615096Z", "location": "Osijek-DonjiGrad", "voltage": 212.3, "current": 4.6, "consumption_kwh": 3.83, "status": "OK"}
+{"meter_id": "HR1143", "timestamp": "2025-05-05T08:34:24.615388Z", "location": "Osijek-DonjiGrad", "voltage": 232.4, "current": 8.6, "consumption_kwh": "invalid_type", "status": "OFFLINE"}
+{"meter_id": "HR1050", "timestamp": "2025-05-05T08:34:24.615038Z", "location": "Zagreb-Dubrava", "voltage": 229.4, "current": 2.8, "consumption_kwh": 0.88, "status": "OFFLINE"}
+{"meter_id": "HR1507", "timestamp": "2025-05-05T08:34:24.614909Z", "location": "Split-StariGrad", "voltage": 215.4, "current": 2.8, "consumption_kwh": 1.37, "status": "OFFLINE"}
+{"meter_id": "HR1972", "timestamp": "2025-05-05T08:34:24.615282Z", "location": "Osijek-DonjiGrad", "voltage": 212.3, "current": 6.4, "consumption_kwh": 2.49, "status": "UNKNOWN"}
+{"meter_id": "HR1976", "timestamp": "2025-05-05T08:34:24.615239Z", "location": "Zagreb-Centar", "voltage": 212.2, "current": 2.1, "consumption_kwh": 3.83, "status": ""}
+{"meter_id": "HR1851", "timestamp": "2025-05-05T08:34:24.614812Z", "location": "Rijeka-Kozala", "voltage": 231.3, "current": 4.3, "consumption_kwh": 4.58, "status": "FAULT"}
+{"meter_id": "HR1641", "timestamp": "2025-05-05T08:34:24.615103Z", "location": "Zagreb-Dubrava", "voltage": 237.6, "current": 7.1, "consumption_kwh": 4.43, "status": "OK"}
+{"meter_id": "HR1030", "timestamp": "2025-05-05T08:34:24.614755Z", "location": "Rijeka-Kozala", "voltage": 225.4, "current": 1.9, "consumption_kwh": 3.26, "status": "OFFLINE"}
+{"meter_id": "HR1917", "timestamp": "2025-05-05T08:34:24.615227Z", "voltage": 220.6, "current": 5.8, "consumption_kwh": 4.43, "status": "OFFLINE"}
+{"meter_id": "HR1325", "timestamp": "2025-05-05T08:34:24.615501Z", "location": "Osijek-DonjiGrad", "voltage": 210.3, "current": 8.9, "consumption_kwh": 1.81, "status": "UNKNOWN"}
+{"meter_id": "HR1217", "timestamp": "2025-05-05T08:34:24.614680Z", "location": "Osijek-DonjiGrad", "voltage": 234.9, "current": 8.7, "consumption_kwh": 0.27, "status": "FAULT"}
+{"meter_id": "HR1412", "timestamp": "2025-05-05T08:34:24.615026Z", "location": "Split-StariGrad", "voltage": 230.2, "current": 2.9, "consumption_kwh": 3.03, "status": "FAULT"}
+{"timestamp": "2025-05-05T08:34:24.615396Z", "location": "Rijeka-Kozala", "voltage": 220.6, "current": 7.5, "consumption_kwh": 1.13, "status": "FAULT"}
+{"meter_id": "HR1499", "timestamp": "2025-05-05T08:34:24.615015Z", "location": "Osijek-DonjiGrad", "voltage": 228.6, "current": 7.2, "consumption_kwh": 4.42, "status": "FAULT"}
+{"meter_id": "HR1819", "timestamp": "2025-05-05T08:34:24.614799Z", "location": "Split-StariGrad", "voltage": 212.8, "current": 6.3, "consumption_kwh": 1.33, "status": "OFFLINE"}
+{"meter_id": "HR1563", "timestamp": "2025-05-05T08:34:24.615209Z", "location": "Zagreb-NoviGrad", "voltage": 231.3, "current": 6.9, "consumption_kwh": 3.29, "status": ""}
+{"meter_id": "HR1510", "timestamp": "2025-05-05T08:34:24.615291Z", "location": "Rijeka-Kozala", "voltage": 221.0, "current": 8.6, "consumption_kwh": 1.11, "status": ""}
+{"meter_id": "HR1909", "timestamp": "2025-05-05T08:34:24.614899Z", "location": "Zagreb-Centar", "voltage": 229.2, "current": 4.1, "consumption_kwh": 0.66, "status": "FAULT"}
+{"meter_id": "HR1327", "timestamp": "2025-05-05T08:34:24.614885Z", "location": "Zagreb-Centar", "voltage": 236.9, "current": 2.2, "consumption_kwh": 3.6, "status": "OK"}
+{"meter_id": "HR1109", "timestamp": "2025-05-05T08:34:24.614968Z", "location": "Zagreb-Centar", "voltage": 231.2, "current": 9.2, "consumption_kwh": 3.36, "status": "FAULT"}
+{"meter_id": "HR1748", "timestamp": "2025-05-05T08:34:24.615323Z", "location": "Zagreb-Dubrava", "voltage": 215.5, "current": "invalid_type", "consumption_kwh": 0.42, "status": "OFFLINE"}
+{"meter_id": "HR1738", "timestamp": "2025-05-05T08:34:24.614784Z", "location": "Zagreb-NoviGrad", "voltage": 232.3, "current": 8.9, "consumption_kwh": 0.14, "status": "OK"}
+{"meter_id": "HR1923", "timestamp": "2025-05-05T08:34:24.614834Z", "location": "Split-StariGrad", "voltage": 221.5, "current": 8.4, "consumption_kwh": 2.89, "status": "FAULT"}
+{"meter_id": "HR1791", "timestamp": "2025-05-05T08:34:24.614726Z", "location": "Zagreb-Dubrava", "voltage": 227.0, "current": 1.5, "consumption_kwh": 1.42, "status": "OFFLINE"}
+{"meter_id": "HR1797", "timestamp": "2025-05-05T08:34:24.615477Z", "location": "Zagreb-Dubrava", "voltage": 210.0, "current": 4.1, "consumption_kwh": 2.36, "status": "N/A"}
+{"meter_id": "HR1261", "timestamp": "2025-05-05T08:34:24.615266Z", "location": "Split-StariGrad", "voltage": 220.8, "current": 8.9, "consumption_kwh": 4.85, "status": "UNKNOWN"}
+{"meter_id": "HR1410", "timestamp": "2025-05-05T08:34:24.615485Z", "location": "Split-StariGrad", "voltage": "invalid_type", "current": 5.5, "consumption_kwh": 3.48, "status": "OFFLINE"}
+{"meter_id": "HR1290", "timestamp": "2025-05-05T08:34:24.615461Z", "location": "Split-StariGrad", "voltage": 233.4, "current": 9.9, "consumption_kwh": 4.59, "status": "UNKNOWN"}
+{"meter_id": "HR1658", "timestamp": "2025-05-05T08:34:24.614826Z", "location": "Zagreb-Centar", "voltage": 230.5, "current": 1.8, "consumption_kwh": 4.6, "status": "OK"}
+{"meter_id": "HR1830", "timestamp": "2025-05-05T08:34:24.615404Z", "location": "Zagreb-Dubrava", "voltage": 214.6, "current": 5.2, "consumption_kwh": 1.83}
+{"meter_id": "HR1401", "timestamp": "2025-05-05T08:34:24.615081Z", "location": "Split-StariGrad", "voltage": 230.6, "current": 9.6, "consumption_kwh": 0.44, "status": "FAULT"}
+{"meter_id": "HR1777", "timestamp": "2025-05-05T08:34:24.614955Z", "location": "Rijeka-Kozala", "voltage": 238.5, "current": 4.6, "consumption_kwh": 3.21, "status": "OK"}
+{"meter_id": "HR1833", "timestamp": "2025-05-05T08:34:24.614647Z", "location": "Zagreb-NoviGrad", "voltage": 234.0, "current": 1.1, "consumption_kwh": 2.98, "status": "OFFLINE"}
+{"meter_id": "HR1560", "timestamp": "2025-05-05T08:34:24.615421Z", "location": "Zagreb-Centar", "voltage": 225.2, "current": "invalid_type", "consumption_kwh": 0.73, "status": "OFFLINE"}
+{"meter_id": "HR1146", "timestamp": "2025-05-05T08:34:24.615002Z", "location": "Zagreb-Centar", "voltage": 224.2, "current": 3.3, "consumption_kwh": 0.32, "status": "OK"}
+{"meter_id": "HR1323", "timestamp": "2025-05-05T08:34:24.615380Z", "location": "Zagreb-Dubrava", "voltage": 221.6, "current": 6.2, "consumption_kwh": 4.98, "status": ""}
+{"meter_id": "HR1675", "timestamp": "2025-05-05T08:34:24.614805Z", "location": "Rijeka-Kozala", "voltage": 210.4, "current": 4.4, "consumption_kwh": 0.19, "status": "FAULT"}
+{"meter_id": "HR1664", "timestamp": "2025-05-05T08:34:24.615274Z", "location": "Zagreb-Dubrava", "voltage": "invalid_type", "current": 8.5, "consumption_kwh": 3.97, "status": "FAULT"}
+{"meter_id": "HR1152", "timestamp": "2025-05-05T08:34:24.615339Z", "location": "Osijek-DonjiGrad", "voltage": 213.5, "current": 7.9, "consumption_kwh": 1.71}
+{"meter_id": "HR1618", "timestamp": "2025-05-05T08:34:24.614932Z", "location": "Split-StariGrad", "voltage": 218.3, "current": 4.4, "consumption_kwh": 2.44, "status": "FAULT"}
+{"meter_id": "HR1973", "timestamp": "2025-05-05T08:34:24.615315Z", "location": "Zagreb-Centar", "voltage": 233.7, "current": 6.0, "consumption_kwh": "invalid_type", "status": "OFFLINE"}
+{"meter_id": "HR1122", "timestamp": "2025-05-05T08:34:24.614769Z", "location": "Zagreb-Dubrava", "voltage": 220.2, "current": 8.8, "consumption_kwh": 0.23, "status": "OK"}
+{"meter_id": "HR1897", "timestamp": "2025-05-05T08:34:24.614868Z", "location": "Osijek-DonjiGrad", "voltage": 218.1, "current": 2.3, "consumption_kwh": 1.33, "status": "OK"}
+{"meter_id": "HR1294", "timestamp": "2025-05-05T08:34:24.614819Z", "location": "Osijek-DonjiGrad", "voltage": 226.4, "current": 7.7, "consumption_kwh": 3.67, "status": "OFFLINE"}
+{"meter_id": "HR1048", "timestamp": "2025-05-05T08:34:24.615165Z", "location": "Zagreb-NoviGrad", "voltage": "invalid_type", "current": 9.8, "consumption_kwh": 1.12, "status": "OFFLINE"}
+{"meter_id": "HR1330", "timestamp": "2025-05-05T08:34:24.614892Z", "location": "Rijeka-Kozala", "voltage": 217.3, "current": 8.6, "consumption_kwh": 0.7, "status": "OFFLINE"}
+{"meter_id": "HR1853", "timestamp": "2025-05-05T08:34:24.615248Z", "location": "Rijeka-Kozala", "voltage": 219.2, "current": 7.1, "consumption_kwh": 1.54, "status": "N/A"}
+{"meter_id": "HR1448", "timestamp": "2025-05-05T08:34:24.615438Z", "location": "Rijeka-Kozala", "voltage": 223.1, "current": 3.1, "consumption_kwh": "invalid_type", "status": "OFFLINE"}
+{"meter_id": "HR1506", "timestamp": "2025-05-05T08:34:24.614943Z", "location": "Zagreb-Dubrava", "voltage": 234.4, "current": 4.0, "consumption_kwh": 0.36, "status": "OK"}
+{"meter_id": "HR1101", "timestamp": "2025-05-05T08:34:24.615075Z", "location": "Zagreb-NoviGrad", "voltage": 231.4, "current": 7.0, "consumption_kwh": 3.7, "status": "OK"}
+{"meter_id": "HR1676", "timestamp": "2025-05-05T08:34:24.614861Z", "location": "Rijeka-Kozala", "voltage": 222.5, "current": 7.9, "consumption_kwh": 3.34, "status": "OFFLINE"}
+{"meter_id": "HR1190", "timestamp": "2025-05-05T08:34:24.614776Z", "location": "Rijeka-Kozala", "voltage": 225.3, "current": 9.4, "consumption_kwh": 3.71, "status": "OK"}
+{"meter_id": "HR1272", "timestamp": "2025-05-05T08:34:24.614878Z", "location": "Zagreb-NoviGrad", "voltage": 217.2, "current": 7.1, "consumption_kwh": 0.48, "status": "FAULT"}
+{"meter_id": "HR1410", "timestamp": "2025-05-05T08:34:24.615307Z", "location": "Osijek-DonjiGrad", "voltage": 236.3, "current": 3.0, "consumption_kwh": "invalid_type", "status": "OFFLINE"}
+{"meter_id": "HR1502", "timestamp": "2025-05-05T08:34:24.614661Z", "location": "Rijeka-Kozala", "voltage": 238.8, "current": 6.8, "consumption_kwh": 4.52, "status": "OFFLINE"}
+{"meter_id": "HR1880", "timestamp": "2025-05-05T08:34:24.615298Z", "location": "Zagreb-Dubrava", "voltage": 219.0, "current": "invalid_type", "consumption_kwh": 4.18, "status": "OK"}
+{"meter_id": "HR1547", "timestamp": "2025-05-05T08:34:24.614714Z", "location": "Zagreb-NoviGrad", "voltage": 232.0, "current": 9.8, "consumption_kwh": 1.7, "status": "OK"}
+{"meter_id": "HR1484", "timestamp": "2025-05-05T08:34:24.615124Z", "location": "Zagreb-Dubrava", "voltage": 233.0, "current": 2.4, "consumption_kwh": 0.27, "status": "OFFLINE"}
+{"meter_id": "HR1021", "timestamp": "2025-05-05T08:34:24.615138Z", "location": "Zagreb-NoviGrad", "voltage": 217.9, "current": 5.5, "consumption_kwh": 1.21, "status": "OFFLINE"}
+{"meter_id": "HR1229", "timestamp": "2025-05-05T08:34:24.615089Z", "location": "Zagreb-Dubrava", "voltage": 238.5, "current": 1.5, "consumption_kwh": 1.56, "status": "OFFLINE"}
+{"meter_id": "HR1906", "timestamp": "2025-05-05T08:34:24.615131Z", "location": "Zagreb-Dubrava", "voltage": 237.9, "current": 9.3, "consumption_kwh": 5.0, "status": "OFFLINE"}
+{"meter_id": "HR1698", "timestamp": "2025-05-05T08:34:24.615453Z", "location": "Zagreb-NoviGrad", "voltage": 234.6, "current": 3.5, "consumption_kwh": 0.18, "status": ""}
+{"meter_id": "HR1155", "timestamp": "2025-05-05T08:34:24.614762Z", "location": "Rijeka-Kozala", "voltage": 239.1, "current": 6.2, "consumption_kwh": 4.78, "status": "OK"}
+{"meter_id": "HR1709", "timestamp": "2025-05-05T08:34:24.614990Z", "location": "Zagreb-Centar", "voltage": 217.6, "current": 4.1, "consumption_kwh": 4.12, "status": "OFFLINE"}
+{"meter_id": "HR1207", "timestamp": "2025-05-05T08:34:24.614920Z", "location": "Zagreb-Centar", "voltage": 227.1, "current": 8.7, "consumption_kwh": 3.51, "status": "FAULT"}

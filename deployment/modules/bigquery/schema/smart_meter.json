@@ -1,0 +1,44 @@
+[
+  {
+    "name": "meter_id",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": ""
+  },
+  {
+    "name": "timestamp",
+    "mode": "NULLABLE",
+    "type": "TIMESTAMP",
+    "description": ""
+  },
+  {
+    "name": "location",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": ""
+  },
+  {
+    "name": "voltage",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": ""
+  },
+  {
+    "name": "current",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": ""
+  },
+  {
+    "name": "consumption_kwh",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": ""
+  },
+  {
+    "name": "status",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": ""
+  }
+]

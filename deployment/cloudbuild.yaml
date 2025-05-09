@@ -1,0 +1,35 @@
+options:
+  logging: CLOUD_LOGGING_ONLY
+
+steps:
+- id: 'Terraform Init'
+  name: 'hashicorp/terraform:latest'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+      echo "Initializing Terraform..."
+      cd deployment/environments/develop
+      terraform init -upgrade
+
+# Step 2: Plan Terraform
+- id: 'Terraform Plan'
+  name: 'hashicorp/terraform:latest'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+      echo "Planning Terraform..."
+      cd deployment/environments/develop
+      terraform plan
+
+# Step 3: Apply Terraform
+- id: 'Terraform Apply'
+  name: 'hashicorp/terraform:latest'
+  entrypoint: 'sh'
+  args:
+  - '-c'
+  - |
+      echo "Applying Terraform..."
+      cd deployment/environments/develop
+      terraform apply -auto-approve
