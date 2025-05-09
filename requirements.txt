@@ -1,3 +1,4 @@
 apache_beam==2.62.0
 protobuf==5.26.1
 google-cloud-pubsub
+apache-airflow-providers-google
