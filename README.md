@@ -62,4 +62,4 @@ FROM
 
 # Looker Studio
 Link on dashboard for quality
-https://lookerstudio.google.com/u/2/reporting/create?c.mode=edit&c.source=BQ_UI&ds.type=CUSTOM_QUERY&ds.connector=BIG_QUERY&ds.sql=SELECT%20*%20FROM%20%60forward-ellipse-459206-a5.measurements.smart_meter%60%20&ds.billingProjectId=forward-ellipse-459206-a5&ds.projectId=forward-ellipse-459206-a5&ds.tableId=anonc86cdfe1_936f_416c_bd4b_a7c0cb71be94&ds.datasetId=_99c5cad6ce0ec23a5ff4ff65ec9a2bd9d2464380&ds.sqlType=STANDARD_SQL
+https://lookerstudio.google.com/s/sqHtmoH6dLE
