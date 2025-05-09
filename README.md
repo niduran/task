@@ -1,4 +1,4 @@
-GCP Infrastructure Deployment with Terraform
+### GCP Infrastructure Deployment with Terraform
 This project provisions and configures various Google Cloud Platform (GCP) services using Terraform. The following resources are deployed:
 
 Pub/Sub
@@ -7,10 +7,9 @@ Artifact Registry
 
 BigQuery (with datasets and tables)
 
-Dataflow (via Docker and Flex Template)
 
 Enhancements & Recommendations
-✅ Suggested Improvements:
+###Improvements:
 Cloud Composer: Add Terraform configuration to deploy Cloud Composer and automate the upload of DAG files.
 
 Cloud Build:
@@ -31,21 +30,21 @@ bash
 Copy
 Edit
 # Build Docker image
-<pre lang="markdown"> ```bash docker build -t europe-west1-docker.pkg.dev/forward-ellipse-459206-a5/dataflow-repo-nikolina/dataflow-pipeline:latest -f dataflow/Dockerfile dataflow ``` </pre>
+<pre lang="markdown"> docker build -t europe-west1-docker.pkg.dev/forward-ellipse-459206-a5/dataflow-repo-nikolina/dataflow-pipeline:latest -f dataflow/Dockerfile dataflow </pre>
 
 # Push Docker image to Artifact Registry
-<pre lang="markdown"> ```bash docker push europe-west1-docker.pkg.dev/forward-ellipse-459206-a5/dataflow-repo-nikolina/dataflow-pipeline:latest ``` </pre>
+<pre lang="markdown"> docker push europe-west1-docker.pkg.dev/forward-ellipse-459206-a5/dataflow-repo-nikolina/dataflow-pipeline:latest </pre>
 
 # Create Flex Template for Dataflow
-<pre lang="markdown"> ```bash gcloud dataflow flex-template build gs://dataflow_bucket_test_1/template.json \
+<pre lang="markdown"> gcloud dataflow flex-template build gs://dataflow_bucket_test_1/template.json \
   --image=europe-west1-docker.pkg.dev/forward-ellipse-459206-a5/dataflow-repo-nikolina/dataflow-pipeline:latest \
   --sdk-language=PYTHON \
-  --metadata-file=dataflow/template_spec/metadata.json
-BigQuery View Creation
-The following SQL creates a unified view combining records with and without errors: ``` </pre>
+  --metadata-file=dataflow/template_spec/metadata.json </pre>
+# BigQuery View Creation
+The following SQL creates a unified view combining records with and without errors:  
 
 
-<pre lang="markdown"> ```sql CREATE OR REPLACE VIEW `forward-ellipse-459206-a5.measurements.smart_meter_with_errors` AS
+<pre lang="markdown"> CREATE OR REPLACE VIEW `forward-ellipse-459206-a5.measurements.smart_meter_with_errors` AS
 SELECT
   ARRAY_AGG(error) AS errors,
   JSON_VALUE(raw, '$.meter_id') AS meter_id,
@@ -71,4 +70,4 @@ SELECT
   consumption_kwh,
   status
 FROM
-  `forward-ellipse-459206-a5.measurements.smart_meter` ``` </pre>
+  `forward-ellipse-459206-a5.measurements.smart_meter`  </pre>
