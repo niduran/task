@@ -63,3 +63,6 @@ FROM
 # Looker Studio
 Link on dashboard for quality
 https://lookerstudio.google.com/s/sqHtmoH6dLE
+
+# Dag
+Dag is not tested. It is here because of logic. 
