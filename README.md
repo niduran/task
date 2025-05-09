@@ -2,33 +2,21 @@
 This project provisions and configures various Google Cloud Platform (GCP) services using Terraform. The following resources are deployed:
 
 Pub/Sub
-
 Artifact Registry
-
 BigQuery (with datasets and tables)
-
-
-Enhancements & Recommendations
-###Improvements:
+### Improvements:
 Cloud Composer: Add Terraform configuration to deploy Cloud Composer and automate the upload of DAG files.
 
-Cloud Build:
+Cloud Build: Add a build pipeline for Artifact Registry to automate Docker image builds and pushes.
 
-Implement Cloud Build as a CI/CD pipeline.
-
-Add a build pipeline for Artifact Registry to automate Docker image builds and pushes.
-
-🔧 Project Setup Notes:
+# Project Setup Notes:
 You must update the project_id in all relevant Terraform and deployment scripts.
 
-This project was tested using a free-tier GCP instance (update resources based on your quota/region availability).
+This project was tested using a free-tier GCP instance.
 
-Dataflow Template Build Commands
+## Dataflow Template Build Commands
 The following commands were used to build and deploy the Dataflow Flex Template:
 
-bash
-Copy
-Edit
 # Build Docker image
 <pre lang="markdown"> docker build -t europe-west1-docker.pkg.dev/forward-ellipse-459206-a5/dataflow-repo-nikolina/dataflow-pipeline:latest -f dataflow/Dockerfile dataflow </pre>
 
@@ -71,3 +59,6 @@ SELECT
   status
 FROM
   `forward-ellipse-459206-a5.measurements.smart_meter`  </pre>
+
+# Looker Studio
+
